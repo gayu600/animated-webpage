@@ -1,6 +1,6 @@
 import React from "react";
 import { BrowserRouter as Router, Routes, Route, Navigate } from "react-router-dom";
-import ModelViewerPage from "./components/ModelViewerPage"; // Make sure the filename case matches
+import ModelViewerPage from "./components/ModelViewerPage"; // Make sure the filename case matches is right or wrong 
 
 
 function App() {
